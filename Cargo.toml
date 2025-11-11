@@ -9,6 +9,10 @@ readme = "README.md"
 keywords = ["openrouter", "ai"]
 categories = ["science::artificial-intelligence"]
 
+exclude = [
+    ".direnv/"
+]
+
 [dependencies]
 eyre = "0.6.12"
 jsonpath_lib = "0.3.0"

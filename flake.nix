@@ -25,6 +25,10 @@
             rust-analyzer
 
             pkgs.just
+
+            # for openssl-sys:
+            pkgs.openssl
+            pkgs.pkg-config
           ];
         };
       }
