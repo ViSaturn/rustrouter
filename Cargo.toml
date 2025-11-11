@@ -7,7 +7,7 @@ license = "Unlicense"
 repository = "https://github.com/ViSaturn/rustrouter"
 readme = "README.md"
 keywords = ["openrouter", "ai"]
-categories = ["science::artificial-intelligence"]
+#categories = ["science::artificial-intelligence"]
 
 exclude = [
     ".direnv/"
