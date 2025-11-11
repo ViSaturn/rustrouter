@@ -2,6 +2,12 @@
 name = "rustrouter"
 version = "0.1.0"
 edition = "2024"
+description = "A very simple openrouter library for rust, utilizing reqwest."
+license = "Unlicense"
+repository = "https://github.com/ViSaturn/rustrouter"
+readme = "README.md"
+keywords = ["openrouter", "ai"]
+categories = ["science::artificial-intelligence"]
 
 [dependencies]
 eyre = "0.6.12"
